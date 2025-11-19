@@ -1,5 +1,5 @@
-# Write "Hello World!" -- day pne Pythond Programming
+# Write "Hello World!" -- day one Python Programming
 print("Hello World!")
-print("The journy has begun.")
-print("Feels so wonderful to start learning Python and utilizing AI models to debugg errors when araise that is enhancing productivity.")
+print("The journey has begun.")
+print("It feels so wonderful to start learning Python and utilizing AI models to debug errors when they arise; this enhances productivity.")
 print("This is really fantastic!")
